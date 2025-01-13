@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  *
- * @author Abdallah
+ * @author Abdullah
  */
 public class Masterminde {
 
